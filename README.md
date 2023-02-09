@@ -24,3 +24,5 @@ a book on practical mathematics in dependent type theory
 * Is ZF a hack? Comparing the complexity of some (formalist interpretations of) foundational systems for mathematics
 
 * On relating type theories and set theories
+
+* Introduction to Homotopy Type Theory by Egbert Rĳke 12.3 Sets
