@@ -3,6 +3,7 @@ a book on practical mathematics in dependent type theory
 
 ## research
 
+### Set Theory
 
 > The set type looks very much like the definition of a subset in ZFC. We write it as
 > {x : A|P(x)}, and its elements are those members of the type A for which we have evidence that
@@ -13,3 +14,9 @@ a book on practical mathematics in dependent type theory
 > in presenting evidence. By hiding this evidence, we are saying that it will not be needed in further
 > computation. If we wanted to keep the evidence, we would use the product type, x : A × P(x)
 > whose elements are pairs, pair(a; p) where a belongs to A and p belongs to P(a).
+
+* Decidability in Intuitionistic Type Theory is functionally decidable
+
+* Building up a toolbox for Martin-L¨of’s type theory Part I. Set Theory
+
+* The Generalised Type-Theoretic Interpretation of Constructive Set Theory
