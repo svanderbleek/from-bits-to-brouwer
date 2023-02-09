@@ -15,6 +15,12 @@ a book on practical mathematics in dependent type theory
 > computation. If we wanted to keep the evidence, we would use the product type, x : A × P(x)
 > whose elements are pairs, pair(a; p) where a belongs to A and p belongs to P(a).
 
+> “A set is not an entity which has an ideal existence: a set exists only when
+> it has been defined. To define a set we prescribe, at least implicitly, what we
+> (the constructing intelligence) must do in order to construct an element of the
+> set, and what we must do to show that two elements are equal” (Errett Bishop,
+> Foundations of Constructive Analysis, 1967.)
+
 * Decidability in Intuitionistic Type Theory is functionally decidable
 
 * Building up a toolbox for Martin-L¨of’s type theory Part I. Set Theory
