@@ -13,13 +13,13 @@ a book on practical mathematics in dependent type theory
 > evidence is not stored with the type. One reason for hiding the evidence is a matter of efficiency
 > in presenting evidence. By hiding this evidence, we are saying that it will not be needed in further
 > computation. If we wanted to keep the evidence, we would use the product type, x : A × P(x)
-> whose elements are pairs, pair(a; p) where a belongs to A and p belongs to P(a).
+> whose elements are pairs, pair(a; p) where a belongs to A and p belongs to P(a). (Robert Constable, Two Lectures on Constructive Type Theory)
 
 > “A set is not an entity which has an ideal existence: a set exists only when
 > it has been defined. To define a set we prescribe, at least implicitly, what we
 > (the constructing intelligence) must do in order to construct an element of the
 > set, and what we must do to show that two elements are equal” (Errett Bishop,
-> Foundations of Constructive Analysis, 1967.)
+> Foundations of Constructive Analysis)
 
 * Decidability in Intuitionistic Type Theory is functionally decidable
 
