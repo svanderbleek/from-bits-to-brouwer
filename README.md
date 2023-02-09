@@ -22,3 +22,5 @@ a book on practical mathematics in dependent type theory
 * The Generalised Type-Theoretic Interpretation of Constructive Set Theory
 
 * Is ZF a hack? Comparing the complexity of some (formalist interpretations of) foundational systems for mathematics
+
+* On relating type theories and set theories
