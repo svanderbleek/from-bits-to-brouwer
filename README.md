@@ -30,3 +30,5 @@ a book on practical mathematics in dependent type theory
 ### Type Checking
 
 * Checking Dependent Types with Normalization by Evaluation: A Tutorial
+
+* On a Strongly Normalizing STG Machine With an Application to Dependent Type Checking
