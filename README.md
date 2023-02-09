@@ -4,7 +4,7 @@ a book on practical mathematics in dependent type theory
 ## research
 
 
-> Set Type The set type looks very much like the definition of a subset in ZFC. We write it as
+> The set type looks very much like the definition of a subset in ZFC. We write it as
 > {x : A|P(x)}, and its elements are those members of the type A for which we have evidence that
 > the predicate P holds. The important feature of the set type is that the evidence is “hidden” in the
 > sense that in order to claim that an element a of the type A belongs to {x : A|P(x)}, we must prove
