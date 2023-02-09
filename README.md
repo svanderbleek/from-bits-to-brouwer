@@ -36,6 +36,8 @@ a book on practical mathematics in dependent type theory
 
 * Sets in Types, Types in Sets
 
+* The forget-restore principle: a paradigmatic example
+
 ### Type Checking
 
 * Checking Dependent Types with Normalization by Evaluation: A Tutorial
