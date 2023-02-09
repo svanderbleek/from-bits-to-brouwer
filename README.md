@@ -24,7 +24,7 @@ a book on practical mathematics in dependent type theory
 
 * Decidability in Intuitionistic Type Theory is functionally decidable
 
-* Building up a toolbox for Martin-L¨of’s type theory Part I. Set Theory
+* Building up a toolbox for Martin-Lof’s type theory Part I. Set Theory
 
 * The Generalised Type-Theoretic Interpretation of Constructive Set Theory
 
@@ -33,6 +33,8 @@ a book on practical mathematics in dependent type theory
 * On relating type theories and set theories
 
 * Introduction to Homotopy Type Theory by Egbert Rĳke 12.3 Sets
+
+* Sets in Types, Types in Sets
 
 ### Type Checking
 
