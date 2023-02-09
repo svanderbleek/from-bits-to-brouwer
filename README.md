@@ -26,3 +26,7 @@ a book on practical mathematics in dependent type theory
 * On relating type theories and set theories
 
 * Introduction to Homotopy Type Theory by Egbert Rĳke 12.3 Sets
+
+### Type Checking
+
+* Checking Dependent Types with Normalization by Evaluation: A Tutorial
