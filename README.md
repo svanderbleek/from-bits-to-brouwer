@@ -64,6 +64,10 @@ a book on practical mathematics in dependent type theory
 
 * Intrinsically-Typed Definitional Interpreters à la Carte
 
+### Combinators
+
+* Outrageous but Meaningful Coincidences Dependent type-safe syntax and evaluation
+
 ### Teaching
 
 * MAS5932–Logic, Type Theory, and the Mechanization of Mathematics https://www.math.fsu.edu/~ealdrov/teaching/2020-21/fall/MAS5932/
