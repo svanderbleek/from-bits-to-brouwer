@@ -63,3 +63,7 @@ a book on practical mathematics in dependent type theory
 * On a Strongly Normalizing STG Machine With an Application to Dependent Type Checking
 
 * Intrinsically-Typed Definitional Interpreters à la Carte
+
+### Teaching
+
+* MAS5932–Logic, Type Theory, and the Mechanization of Mathematics https://www.math.fsu.edu/~ealdrov/teaching/2020-21/fall/MAS5932/
