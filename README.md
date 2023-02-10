@@ -38,6 +38,24 @@ a book on practical mathematics in dependent type theory
 
 * The forget-restore principle: a paradigmatic example
 
+### Logic
+
+* Expressing ‘The Structure of’ in Homotopy Type Theory
+
+> Elements of the dependent sum of donkeys owned by farmers are pairs formed
+> of a farmer and then a pair formed of a donkey and a warrant that the donkey
+> is owned by that farmer. From such an element, z, we project to the first
+> component of the pair, p(z), to extract the farmer and then project to the first
+> component of the second component, p(q(z)), for the donkey, so at to be able to
+> express the beating of one by the other. It is this last term that is being referred
+> to in natural language as ‘it’. An element of the whole dependent product, which
+> will establish the truth of the proposition, will provide a proof of the relevant
+> beating for any such z. 
+
+* Sundholm, G. (2002). Proof Theory and Meaning. Handbook of Philosophical Logic, 165–198. doi:10.1007/978-94-017-0464-9_3 
+
+* Modified realisation and the formulae-as-types notion
+
 ### Type Checking
 
 * Checking Dependent Types with Normalization by Evaluation: A Tutorial
