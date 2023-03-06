@@ -80,3 +80,5 @@ a book on practical mathematics in dependent type theory
 * https://github.com/civboot/civboot
 * https://www.networksfromscratch.com/index.html
 * https://www.opensourceecology.org/gvcs/
+* http://bauhh.dyndns.org:8000/gilbert/b32/doc/intro.html
+* https://arith-matic.com/notebook/4bit-7400-homebrew-computer-cpu
