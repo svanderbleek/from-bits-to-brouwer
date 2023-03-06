@@ -71,3 +71,11 @@ a book on practical mathematics in dependent type theory
 ### Teaching
 
 * MAS5932–Logic, Type Theory, and the Mechanization of Mathematics https://www.math.fsu.edu/~ealdrov/teaching/2020-21/fall/MAS5932/
+
+### DIY
+
+* https://simplifier.neocities.org/
+* https://incoherency.co.uk/blog/stories/scamp-development-environment.html
+* https://github.com/civboot/civboot
+* https://www.networksfromscratch.com/index.html
+* https://www.opensourceecology.org/gvcs/
