@@ -74,6 +74,7 @@ a book on practical mathematics in dependent type theory
 
 ### DIY
 
+* https://blogbyjoshcogliati.blogspot.com/2021/05/public-domain-books-to-restart-computer.html
 * https://simplifier.neocities.org/
 * https://incoherency.co.uk/blog/stories/scamp-development-environment.html
 * https://github.com/civboot/civboot
